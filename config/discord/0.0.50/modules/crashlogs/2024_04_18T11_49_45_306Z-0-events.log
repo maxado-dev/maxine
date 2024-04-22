@@ -1,0 +1,31 @@
+2024-04-18T11:49:45.316Z 0: 
+
+----------------------------------------------
+2024-04-18T11:49:45.336Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.50"}, modulepath: /home/machado/.config/discord/0.0.50/modules
+2024-04-18T11:49:45.342Z 2: ✅ webContents.created web1 ""
+2024-04-18T11:49:45.346Z 3: ✅ window.created win1 "discord"
+2024-04-18T11:49:45.585Z 4: ✅ webContents.did-finish-load web1
+2024-04-18T11:49:52.819Z 5: ✅ webContents.created web2 ""
+2024-04-18T11:49:52.836Z 6: ✅ window.created win2 "Discord"
+2024-04-18T11:49:54.888Z 7: ✅ webContents.did-finish-load web2
+2024-04-18T11:49:54.985Z 8: window.close win1
+2024-04-18T11:49:55.001Z 9: webContents.destroyed web1
+2024-04-18T11:49:55.002Z 10: window.closed win1
+2024-04-18T21:12:22.076Z 11: window.close win2
+2024-04-18T21:14:54.615Z 12: before-quit
+2024-04-18T21:14:54.622Z 13: window.close win2
+2024-04-18T21:14:54.632Z 14: webContents.destroyed web2
+2024-04-19T12:15:39.152Z 0: 
+
+----------------------------------------------
+2024-04-19T12:15:39.168Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.50"}, modulepath: /home/machado/.config/discord/0.0.50/modules
+2024-04-19T12:15:39.183Z 2: ✅ webContents.created web1 ""
+2024-04-19T12:15:39.185Z 3: ✅ window.created win1 "discord"
+2024-04-19T12:15:39.408Z 4: ✅ webContents.did-finish-load web1
+2024-04-19T12:15:39.672Z 5: ✅ webContents.created web2 ""
+2024-04-19T12:15:39.687Z 6: ✅ window.created win2 "Discord"
+2024-04-19T12:15:41.913Z 7: ✅ webContents.did-finish-load web2
+2024-04-19T12:15:42.013Z 8: window.close win1
+2024-04-19T12:15:42.019Z 9: webContents.destroyed web1
+2024-04-19T12:15:42.021Z 10: window.closed win1
+2024-04-20T21:56:05.610Z 11: window.close win2

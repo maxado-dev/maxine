@@ -1,0 +1,6 @@
+2024/04/15-06:04:23.494 1592 Reusing MANIFEST /home/machado/.config/WebCord/Local Storage/leveldb/MANIFEST-000001
+2024/04/15-06:04:23.499 1592 Recovering log #31
+2024/04/15-06:04:23.499 1592 Reusing old log /home/machado/.config/WebCord/Local Storage/leveldb/000031.log 
+2024/04/16-05:17:06.692 157e Level-0 table #36: started
+2024/04/16-05:17:06.698 157e Level-0 table #36: 20728 bytes OK
+2024/04/16-05:17:06.699 157e Delete type=0 #31

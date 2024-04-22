@@ -1,0 +1,71 @@
+[2024-04-06 19:46:02.411] [info] Logseq App(0.10.8) Starting... 
+[2024-04-06 19:46:02.420] [info] restore proxy settings {:type "system"}
+[2024-04-06 19:46:02.421] [info] set proxy to {:type "system"}
+[2024-04-06 19:46:04.656] [debug] :electron.handler/watch-dir {:path "/home/machado/.logseq/config"}
+[2024-04-06 19:47:11.952] [debug] window-all-closed Quitting...
+[2024-04-07 17:37:21.444] [info] Logseq App(0.10.8) Starting... 
+[2024-04-07 17:37:21.448] [info] restore proxy settings {:type "system"}
+[2024-04-07 17:37:21.449] [info] set proxy to {:type "system"}
+[2024-04-07 17:37:23.840] [debug] :electron.handler/watch-dir {:path "/home/machado/.logseq/config"}
+[2024-04-07 17:37:56.315] [info] :electron.handler/open-dir open folder selection dialog
+[2024-04-07 17:38:17.063] [debug] :electron.handler/open-dir {:path "/home/machado/seagate/drive/DriveSyncFiles/Notes/Logseq"}
+[2024-04-07 17:38:22.488] [debug] :electron.handler/watch-dir {:path "/home/machado/seagate/drive/DriveSyncFiles/Notes/Logseq"}
+[2024-04-07 17:44:00.219] [warn] :electron.fs-watcher/on-unlink-dir {:path "/home/machado/.logseq/config"}
+[2024-04-07 17:44:00.318] [debug] :electron.fs-watcher/on-unlink {:path "/home/machado/.logseq/config/plugins.edn"}
+[2024-04-07 17:44:00.318] [debug] :electron.fs-watcher/on-unlink {:path "/home/machado/.logseq/config/config.edn"}
+[2024-04-07 17:44:09.051] [debug] window-all-closed Quitting...
+[2024-04-07 17:44:11.528] [info] Logseq App(0.10.8) Starting... 
+[2024-04-07 17:44:11.533] [info] restore proxy settings {:type "system"}
+[2024-04-07 17:44:11.534] [info] set proxy to {:type "system"}
+[2024-04-07 17:44:14.581] [debug] :electron.handler/watch-dir {:path "/home/machado/.logseq/config"}
+[2024-04-07 17:44:14.677] [debug] :electron.handler/unwatch-dir {:path "/home/machado/seagate/drive/DriveSyncFiles/Notes/Logseq"}
+[2024-04-07 17:44:14.678] [debug] :electron.handler/watch-dir {:path "/home/machado/seagate/drive/DriveSyncFiles/Notes/Logseq"}
+[2024-04-07 17:44:46.986] [debug] window-all-closed Quitting...
+[2024-04-11 18:09:39.544] [info] Logseq App(0.10.8) Starting... 
+[2024-04-11 18:09:39.548] [info] restore proxy settings {:type "system"}
+[2024-04-11 18:09:39.549] [info] set proxy to {:type "system"}
+[2024-04-11 18:09:42.416] [debug] :electron.handler/watch-dir {:path "/home/machado/.logseq/config"}
+[2024-04-11 18:09:42.513] [debug] :electron.handler/unwatch-dir {:path "/home/machado/seagate/drive/DriveSyncFiles/Notes/Logseq"}
+[2024-04-11 18:09:42.514] [debug] :electron.handler/watch-dir {:path "/home/machado/seagate/drive/DriveSyncFiles/Notes/Logseq"}
+[2024-04-11 18:09:43.197] [debug] [Marketplace] === Updating: trashhalo/logseq-dictionary ===
+[2024-04-11 18:09:43.531] [debug] [Marketplace] INFO: use github api -  https://plugins.logseq.io/github/api
+[2024-04-11 18:09:44.094] [debug] [Marketplace] Release latest: https://plugins.logseq.io/github/api/repos/trashhalo/logseq-dictionary/releases/latest :status 200
+[2024-04-11 18:09:44.107] [debug] [Marketplace] Release latest: 0.0.2  from https://api.github.com/repos/trashhalo/logseq-dictionary/releases/assets/76757418
+[2024-04-11 18:09:44.108] [debug] [Marketplace] Release compare: 0.0.2 (current) >  0.0.2 (latest)
+[2024-04-11 18:09:44.108] [debug] [Marketplace] Update skip: no new version
+[2024-04-11 18:09:44.821] [debug] [Marketplace] === Updating: stdword/logseq-bujo-theme ===
+[2024-04-11 18:09:45.109] [debug] [Marketplace] Release latest: https://plugins.logseq.io/github/api/repos/stdword/logseq-bujo-theme/releases/latest :status 200
+[2024-04-11 18:09:45.110] [debug] [Marketplace] Release latest: 1.3.5  from https://api.github.com/repos/stdword/logseq-bujo-theme/releases/assets/154614262
+[2024-04-11 18:09:45.110] [debug] [Marketplace] Release compare: 1.3.4 (current) >  1.3.5 (latest)
+[2024-04-11 18:09:45.111] [debug] [Marketplace] Updating latest: 1.3.5
+[2024-04-11 18:09:45.111] [debug] [Marketplace] [Checked DONE] 1.3.5
+[2024-04-11 18:09:45.616] [debug] [Marketplace] === Updating: pengx17/logseq-plugin-bullet-threading ===
+[2024-04-11 18:09:46.253] [debug] [Marketplace] Release latest: https://plugins.logseq.io/github/api/repos/pengx17/logseq-plugin-bullet-threading/releases/latest :status 200
+[2024-04-11 18:09:46.254] [debug] [Marketplace] Release latest: v1.1.4  from https://api.github.com/repos/pengx17/logseq-plugin-bullet-threading/releases/assets/110059142
+[2024-04-11 18:09:46.254] [debug] [Marketplace] Release compare: v1.1.4 (current) >  v1.1.4 (latest)
+[2024-04-11 18:09:46.254] [debug] [Marketplace] Update skip: no new version
+[2024-04-11 18:09:46.758] [debug] [Marketplace] === Updating: pengx17/logseq-plugin-tabs ===
+[2024-04-11 18:09:47.030] [debug] [Marketplace] Release latest: https://plugins.logseq.io/github/api/repos/pengx17/logseq-plugin-tabs/releases/latest :status 200
+[2024-04-11 18:09:47.031] [debug] [Marketplace] Release latest: v1.19.4  from https://api.github.com/repos/pengx17/logseq-plugin-tabs/releases/assets/143509183
+[2024-04-11 18:09:47.031] [debug] [Marketplace] Release compare: v1.19.4 (current) >  v1.19.4 (latest)
+[2024-04-11 18:09:47.031] [debug] [Marketplace] Update skip: no new version
+[2024-04-11 18:09:47.536] [debug] [Marketplace] === Updating: haydenull/logseq-woz-theme ===
+[2024-04-11 18:09:47.877] [debug] [Marketplace] Release latest: https://plugins.logseq.io/github/api/repos/haydenull/logseq-woz-theme/releases/latest :status 200
+[2024-04-11 18:09:47.879] [debug] [Marketplace] Release latest: v1.10.6  from https://api.github.com/repos/haydenull/logseq-woz-theme/releases/assets/129469075
+[2024-04-11 18:09:47.879] [debug] [Marketplace] Release compare: v1.10.6 (current) >  v1.10.6 (latest)
+[2024-04-11 18:09:47.879] [debug] [Marketplace] Update skip: no new version
+[2024-04-11 18:09:48.385] [debug] [Marketplace] === Updating: sethyuan/logseq-plugin-wrap ===
+[2024-04-11 18:09:48.665] [debug] [Marketplace] Release latest: https://plugins.logseq.io/github/api/repos/sethyuan/logseq-plugin-wrap/releases/latest :status 200
+[2024-04-11 18:09:48.667] [debug] [Marketplace] Release latest: v0.10.3  from https://api.github.com/repos/sethyuan/logseq-plugin-wrap/releases/assets/144984902
+[2024-04-11 18:09:48.667] [debug] [Marketplace] Release compare: v0.10.3 (current) >  v0.10.3 (latest)
+[2024-04-11 18:09:48.667] [debug] [Marketplace] Update skip: no new version
+[2024-04-11 18:09:49.172] [debug] [Marketplace] === Updating: haydenull/logseq-plugin-markdown-table ===
+[2024-04-11 18:09:49.512] [debug] [Marketplace] Release latest: https://plugins.logseq.io/github/api/repos/haydenull/logseq-plugin-markdown-table/releases/latest :status 200
+[2024-04-11 18:09:49.514] [debug] [Marketplace] Release latest: v1.8.0  from https://api.github.com/repos/haydenull/logseq-plugin-markdown-table/releases/assets/124347347
+[2024-04-11 18:09:49.514] [debug] [Marketplace] Release compare: v1.8.0 (current) >  v1.8.0 (latest)
+[2024-04-11 18:09:49.514] [debug] [Marketplace] Update skip: no new version
+[2024-04-11 18:09:50.018] [debug] [Marketplace] === Updating: vipzhicheng/logseq-plugin-vim-shortcuts ===
+[2024-04-11 18:09:50.352] [debug] [Marketplace] Release latest: https://plugins.logseq.io/github/api/repos/vipzhicheng/logseq-plugin-vim-shortcuts/releases/latest :status 200
+[2024-04-11 18:09:50.354] [debug] [Marketplace] Release latest: v0.1.22  from https://api.github.com/repos/vipzhicheng/logseq-plugin-vim-shortcuts/releases/assets/146683553
+[2024-04-11 18:09:50.354] [debug] [Marketplace] Release compare: v0.1.22 (current) >  v0.1.22 (latest)
+[2024-04-11 18:09:50.355] [debug] [Marketplace] Update skip: no new version

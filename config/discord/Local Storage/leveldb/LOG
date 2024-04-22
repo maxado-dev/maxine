@@ -1,0 +1,29 @@
+2024/04/19-09:15:39.105 143a Reusing MANIFEST /home/machado/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2024/04/19-09:15:39.109 143a Recovering log #40
+2024/04/19-09:15:39.110 143a Reusing old log /home/machado/.config/discord/Local Storage/leveldb/000040.log 
+2024/04/19-09:18:14.173 143a Level-0 table #44: started
+2024/04/19-09:18:14.187 143a Level-0 table #44: 767039 bytes OK
+2024/04/19-09:18:14.189 143a Delete type=0 #40
+2024/04/19-09:19:32.961 143a Level-0 table #46: started
+2024/04/19-09:19:32.971 143a Level-0 table #46: 2289037 bytes OK
+2024/04/19-09:19:32.973 143a Delete type=0 #43
+2024/04/19-09:19:32.973 143a Compacting 4@0 + 2@1 files
+2024/04/19-09:19:32.983 143a Generated table #47@0: 12 keys, 2286066 bytes
+2024/04/19-09:19:33.006 143a Generated table #48@0: 91 keys, 3013178 bytes
+2024/04/19-09:19:33.006 143a Compacted 4@0 + 2@1 files => 5299244 bytes
+2024/04/19-09:19:33.007 143a compacted to: files[ 0 3 0 0 0 0 0 ]
+2024/04/19-09:19:33.008 143a Delete type=2 #36
+2024/04/19-09:19:33.008 143a Delete type=2 #44
+2024/04/19-09:19:33.008 143a Delete type=2 #41
+2024/04/19-09:19:33.008 143a Delete type=2 #35
+2024/04/19-09:19:33.008 143a Delete type=2 #46
+2024/04/19-09:19:33.008 143a Delete type=2 #39
+2024/04/19-21:17:04.286 1439 Level-0 table #50: started
+2024/04/19-21:17:04.299 1439 Level-0 table #50: 2302286 bytes OK
+2024/04/19-21:17:04.300 1439 Delete type=0 #45
+2024/04/20-18:27:28.814 1439 Level-0 table #52: started
+2024/04/20-18:27:28.820 1439 Level-0 table #52: 20418 bytes OK
+2024/04/20-18:27:28.822 1439 Delete type=0 #49
+2024/04/20-18:39:25.120 143a Level-0 table #54: started
+2024/04/20-18:39:25.126 143a Level-0 table #54: 19461 bytes OK
+2024/04/20-18:39:25.128 143a Delete type=0 #51
