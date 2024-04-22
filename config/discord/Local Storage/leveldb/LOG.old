@@ -1,9 +1,0 @@
-2024/04/18-08:49:45.260 2d5d Reusing MANIFEST /home/machado/.config/discord/Local Storage/leveldb/MANIFEST-000001
-2024/04/18-08:49:45.265 2d5d Recovering log #33
-2024/04/18-08:49:45.266 2d5d Reusing old log /home/machado/.config/discord/Local Storage/leveldb/000033.log 
-2024/04/18-08:52:27.322 2d5d Level-0 table #39: started
-2024/04/18-08:52:27.337 2d5d Level-0 table #39: 759393 bytes OK
-2024/04/18-08:52:27.341 2d5d Delete type=0 #33
-2024/04/18-10:31:17.551 2d5d Level-0 table #41: started
-2024/04/18-10:31:17.564 2d5d Level-0 table #41: 2289112 bytes OK
-2024/04/18-10:31:17.566 2d5d Delete type=0 #38
