@@ -1,2 +1,2 @@
 # maxine
-My dotfiles
+My current dotfiles.
