@@ -72,6 +72,7 @@ keys = [
     Key([mod], "Return", lazy.spawn(terminal), desc="Launch terminal"),
     Key([mod], "comma", lazy.screen.prev_group(), desc="Prev Workspace"),
     Key([mod], "period", lazy.screen.next_group(), desc="Next Workspace"),
+    Key([mod, "shift"], "Return", lazy.spawn("emacs"), desc="Launch Emacs"),
 
     # Toggle between different layouts as defined below
     Key([mod, "shift"], "Tab", lazy.next_layout(), desc="Toggle between layouts"),

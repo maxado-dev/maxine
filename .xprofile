@@ -1,0 +1,6 @@
+exec feh --bg-fill ~/seagate/machado/3-resources/pictures/wallpapers/wp8408608-cat-4k-wallpapers.jpg &
+bitwarden-desktop &
+# /usr/bin/electron --app /usr/lib/authy/app.asar &
+setxkbmap -model pc104alt -layout us -variant intl -option ctrl:swapcaps &
+dunst &
+rofi &
